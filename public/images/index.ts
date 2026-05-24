@@ -17,7 +17,7 @@ import officeImg1 from "./office-img.png";
 import confetti from "./confetti.png";
 import banner from "./banner.png";
 import heroImage2 from "./heroImage2.png";
-import logoImage from "./apexlogo.png";
+import logoImage from "./brilogo.webp";
 import heroImage3 from "./image1.png";
 import heroImage4 from "./front.png";
 import heroBg from "./pinkkey.webp";
